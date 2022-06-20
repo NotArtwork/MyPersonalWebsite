@@ -1,7 +1,17 @@
 body {
-    background-image: url("/https://upload.wikimedia.org/wikipedia/commons/9/9c/Lunch_atop_a_Skyscraper_-_Charles_Clyde_Ebbets.jpg");
+    text-align: center;
+    background: url("https://i.ibb.co/wWSpq5b/download.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: helvetica;
+
 }
 h1 {
-    align:center;
+    text-align:center;
     color:black;   
+}
+p {
+    text-align:center;
+    font-size: 22px;
 }
